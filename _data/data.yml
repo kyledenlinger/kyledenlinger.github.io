@@ -61,7 +61,7 @@ education:
             - Student Teaching: 2007-2008
 
 experiences:
-    title: Experiences
+    title: Experience
     info:
       - role: Digital Pedagogy & Open Education Librarian
         time: 2020 - Present
@@ -72,10 +72,10 @@ experiences:
          - Write and manage project charters and other documentation to ensure timely project execution, clarify stakeholder roles and expectations, and align services with project goals, timelines, and stakeholder capacity.
          - Build wireframes, prototypes, and templates for projects requiring custom site development. Work with developers to create custom integrations where necessary. 
          - Facilitate workshops, write documentation, and respond to help tickets for a range of digital tools like PubPub, TimelineJS, WordPress, Pressbooks, Zotero, Airtable, and Hypothesis. 
-         - Support the research and teaching needs of students and faculty in assigned academic departments through conducting library instruction sessions, writing job aids and research guides, offering one-on-one consultations, and responding to help tickets.
+         - Support the research and teaching needs of students and faculty in assigned academic departments through conducting library instruction sessions, writing job aids and research guides, offering one-on-one consultations, and responding to research support tickets.
          - Serve on numerous campus and library committees, including the university's Committee on Information Technology and the library's UX Committee.
          
-         *Accomplishments*
+         ##Accomplishments##
          - Played a central role in aligning and coordinating the university's emergency remote and fully-online teaching efforts during the first year of the COVID-19 pandemic, including creating and managing a Slack workspace for relevant support teams and co-developing and co-facilitating a peer-to-peer faculty learning community that drew engagement than more than 90% of faculty.
          - Successfully coordinated the university's pilot, integration, and rollout of Hypothesis annotation software; through my ongoing outreach and training, consistently more than 30% of WFU students engage with Hypothesis in their classes at some point each semester. 
 
