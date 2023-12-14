@@ -1,0 +1,205 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    position: left # position of the sidebar : left or right
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Kyle Denlinger
+    tagline: Digital Publishing | Libraries | Open Access
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: kdenlinger@duck.com
+    phone: 513.255.2309
+    timezone: America/Eastern United States
+    citizenship:
+    website: kyledenlinger.com #do not add http://
+    linkedin: kyledenlinger
+    github: kyledenlinger
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf:
+
+    interests:
+      title: Interests
+      info:
+        - item: Woodworking
+          link:
+
+        - item: Vegetable Gardening
+          link:
+
+        - item: Genealogy Research
+          link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Dynamic librarian and technologist with extensive experience in digital project management, customer support, and collaborative initiatives in academic settings. Proficient in supporting a wide range of digital tools and platforms, adept at fostering engaging digital learning environments and enhancing user experiences.
+education:
+    title: Education
+    info:
+      - degree: MA, Information Science & Learning Technologies
+        university: University of Missouri
+        time: 2010 - 2012
+        details: |
+            - Focus: Academic Librarianship
+      - degree: BS, Secondary Education
+        university: University of Cincinnati
+        time: 2003 - 2007
+        details: |
+            - Focus: English Language Arts
+            - Student Teaching: 2007-2008
+
+experiences:
+    title: Experiences
+    info:
+      - role: Digital Pedagogy & Open Education Librarian
+        time: 2020 - Present
+        company: Z. Smith Reynolds Library, Wake Forest University
+        details: |
+         In this role, I lead and manage diverse projects in digital classroom publications and Open Educational Resources (OER) on a small team dedicated to campus-wide engagement with digital scholarship and digital humanities. Key responsibilities include: 
+         - Collaborate with faculty to develop and implement digital publishing and OER projects in their classes, emphasizing accessibility, copyright, and privacy concerns.
+         - Write and manage project charters and other documentation to ensure timely project execution, clarify stakeholder roles and expectations, and align services with project goals, timelines, and stakeholder capacity.
+         - Build wireframes, prototypes, and templates for projects requiring custom site development. Work with developers to create custom integrations where necessary. 
+         - Facilitate workshops, write documentation, and respond to help tickets for a range of digital tools like PubPub, TimelineJS, WordPress, Pressbooks, Zotero, Airtable, and Hypothesis. 
+         - Support the research and teaching needs of students and faculty in assigned academic departments through conducting library instruction sessions, writing job aids and research guides, offering one-on-one consultations, and responding to help tickets.
+         - Serve on numerous campus and library committees, including the university's Committee on Information Technology and the library's UX Committee.
+         
+         *Accomplishments*
+         - Played a central role in aligning and coordinating the university's emergency remote and fully-online teaching efforts during the first year of the COVID-19 pandemic, including creating and managing a Slack workspace for relevant support teams and co-developing and co-facilitating a peer-to-peer faculty learning community that drew engagement than more than 90% of faculty.
+         - Successfully coordinated the university's pilot, integration, and rollout of Hypothesis annotation software; through my ongoing outreach and training, consistently more than 30% of WFU students engage with Hypothesis in their classes at some point each semester. 
+
+      - role: eLearning Librarian
+        time: 2012 - 2019
+        company: Z. Smith Reynolds Library, Wake Forest University
+        details: |
+          As eLearning Librarian, I specialized in developing online courses and learning resources, including numerous open online courses that enrolled hundreds of alumni and parents. Key responsibilities included: 
+          - Developing and teaching credit-bearing courses focused on academic research and critical information literacy, and consulting with faculty colleagues on the development of their own online courses.
+          - Managing and creating online learning objects for library instruction, and leading workshops on Zotero reference management software.
+          - Enhancing services for students in online or tech-enabled classes, developing both in-person and online information literacy instruction.
+          - 
+
+certifications:
+      title: Certifications
+      list:
+        - name: CV Builder
+          start: 2020
+          end: 2021
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.google.com
+          credentialname: Google
+          details: |
+            Details about cert. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
+
+            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+            fringilla vel. Ut euismod, sem sed vulputate venenatis,
+            justo diam viverra velit, sed rhoncus leo leo eu justo.
+            Suspendisse placerat risus ante, sed porta nisi blandit at.
+        - name: Git learning
+          start: 2019
+          end:
+          organization: Microsoft
+          credentialid: 111-222
+          credentialurl: www.github.com
+          credentialname: Github
+          details: |
+            Older certification. Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit.
+            Nullam eget orci purus. Nullam ultrices neque nibh.
+            Aenean fermentum, felis vulputate suscipit accumsan,
+            sem enim bibendum augue, sed convallis arcu lacus at dui.
+            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+            Praesent venenatis erat non augue suscipit consectetur.
+
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Django
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
