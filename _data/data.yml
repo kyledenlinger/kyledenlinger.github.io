@@ -69,7 +69,7 @@ experiences:
         details: |
          In this role, I lead and manage diverse projects in digital classroom publications and Open Educational Resources (OER) on a small team dedicated to campus-wide engagement with digital scholarship and digital humanities. 
         responsibilities: |
-          Key responsibilities include: 
+          #### Key responsibilities include: 
           - Collaborate with faculty to develop and implement digital publishing and OER projects in their classes, emphasizing accessibility, copyright, and privacy concerns.
           - Write and manage project charters and other documentation to ensure timely project execution, clarify stakeholder roles and expectations, and align services with project goals, timelines, and stakeholder capacity.
           - Build wireframes, prototypes, and templates for projects requiring custom site development. Work with developers to create custom integrations where necessary. 
@@ -77,8 +77,9 @@ experiences:
           - Support the research and teaching needs of students and faculty in assigned academic departments through conducting library instruction sessions, writing job aids and research guides, offering one-on-one consultations, and responding to research support tickets.
           - Serve on numerous campus and library committees, including the university's Committee on Information Technology and the library's UX Committee.
         accomplishments: |
-         - Played a central role in aligning and coordinating the university's emergency remote and fully-online teaching efforts during the first year of the COVID-19 pandemic, including creating and managing a Slack workspace for relevant support teams and co-developing and co-facilitating a peer-to-peer faculty learning community that drew engagement than more than 90% of faculty.
-         - Successfully coordinated the university's pilot, integration, and rollout of Hypothesis annotation software; through my sustained outreach and training, consistently more than 30% of WFU students engage with Hypothesis in their classes at some point each semester. 
+          #### Accomplishments
+          - Played a central role in aligning and coordinating the university's emergency remote and fully-online teaching efforts during the first year of the COVID-19 pandemic, including creating and managing a Slack workspace for relevant support teams and co-developing and co-facilitating a peer-to-peer faculty learning community that drew engagement than more than 90% of faculty.
+          - Successfully coordinated the university's pilot, integration, and rollout of Hypothesis annotation software; through my sustained outreach and training, consistently more than 30% of WFU students engage with Hypothesis in their classes at some point each semester. 
 
       - role: eLearning Librarian
         time: 2012 - 2019
@@ -89,7 +90,7 @@ experiences:
           Key responsibilities included: 
           - Developing and teaching credit-bearing courses focused on academic research and critical information literacy, and consulting with faculty colleagues on the development of their own online courses.
           - Creating tutorials, interactives, documentation, and other learning objects to support library instruction
-          - Leading the library's support for Zotero reference management software, including teaching workshops, maintaining a comprehensive <a href="http://guides.zsr.wfu.edu/zotero">Zotero help guide</a> faculty 
+          - Leading the library's support for Zotero reference management software, including teaching workshops, maintaining a comprehensive [Zotero help guide](http://guides.zsr.wfu.edu/zotero) <a href="http://guides.zsr.wfu.edu/zotero">Zotero help guide</a> faculty 
           - Enhancing services for students in online or tech-enabled classes, developing both in-person and online information literacy instruction.
           - 
 
