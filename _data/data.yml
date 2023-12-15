@@ -69,7 +69,7 @@ experiences:
         details: |
          As a key member of a specialized team, I spearhead initiatives in digital classroom publications and Open Educational Resources (OER), driving campus-wide digital scholarship and digital humanities engagement.
         responsibilities: |
-          **Core Responsibilities:**
+          **Core Responsibilities**
           - **Digital Project Collaboration:** Partner with faculty to implement digital publishing and OER in classes, prioritizing accessibility, copyright, and privacy.
           - **Project Management:** Draft and oversee project charters and documentation, aligning goals, timelines, and stakeholder capacity for efficient project completion.
           - **Technical Development:** Design wireframes, prototypes, and custom site templates; collaborate with developers for bespoke integrations.
@@ -87,7 +87,7 @@ experiences:
         details: |
           As eLearning Librarian, I played a pivotal role in enhancing the university's online and blended learning experiences.
         responsibilities: |
-          **Core Responsibilities:**
+          **Core Responsibilities**
           - **Online Course Development:** Collaborated with faculty and staff to design and support blended and fully online courses.
           - **Instructional Roles:** Taught fully-online sections of “LIB100: Academic Research & Information Issues” and integrated open pedagogical practices, including student-directed projects and ungrading.
           - **Resource Development:** Created and managed online learning objects to support library instruction.
@@ -98,7 +98,7 @@ experiences:
         accomplishments: |
           **Accomplishments**
           - **Education Library Revamp:** Spearheaded the the complete overhaul of the Education Department's Curriculum Resources Center, enhancing collection diversity and organization.
-          - **Zotero Leadership:** Led the university's transition away from EndNote to Zotero; met with faculty and administrators to advocate for the free and open source tool.
+          - **Zotero Leadership:** Led the university's transition away from EndNote to Zotero; met with faculty and administrators to advocate for and answer questions about the free and open source tool. Kept faculty up-to-date when new features became avaialble.
           - **MOOC Development** Created and facilitated ["RootsMOOC,"](https://canvas.instructure.com/courses/951533) a genealogy and family history research course that enrolled 4000+ individuals, and "ZSRx: The Cure for the Common Web," a web literacy course with 700+ participants.
 
 
@@ -136,41 +136,31 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Significant projects that highlight some of my recent work. 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Domestic Knowledge
+        link: "https://domesticknowledge.pubpub.org/"
+        tagline: "A student-produced respository of recipes transcribed from 17th & 18th Century manuscript recipe books, built on PubPub with custom integrations. Collaborative effort between WFU professor of history, Knowledge Futures Community Services, and the library. NEH-funded."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Gender & Sexuality in World History
+        link: "https://genderhistory.pubpub.org/"
+        tagline: "Student-authored essays examining gender and sexuality topics through the lens of primary sources. Each semester, students produce a new volume, often reading and building upon the work of previous students."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: The Performance of Roman Comedy
+        link: "https://romancomedy.pubpub.org/"
+        tagline: "Documenting the curriculum and events of an NEH-funded institute for classics instructors in higher education. Participants used PubPub to create and share curriuclum resources"
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    title: Selected Publications
+    #intro: |
+      #You can list your publications in this section. Lorem ipsum dolor sit
+     # amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      #bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Making history together: reflections on trust, connection, and finding joy in the archives"
+        link: "https://osf.io/cjnbd/"
+        authors: Yarfitz, M., **Denlinger, K.,** Shields, K., & Mulder, M.
+        conference: "Exploring inclusive & equitable pedagogies: creating space for all learners. Association of College and Research Libraries. 2023."
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
