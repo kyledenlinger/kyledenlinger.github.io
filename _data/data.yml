@@ -17,7 +17,7 @@ sidebar:
     phone: 513.255.2309
     timezone: America/Eastern United States
     citizenship:
-    website: kyledenlinger.com #do not add http://
+    #website: kyledenlinger.com #do not add http://
     linkedin: kyledenlinger
     github: kyledenlinger
     telegram: # add your nickname without '@' sign
@@ -67,76 +67,71 @@ experiences:
         time: 2020 - Present
         company: Z. Smith Reynolds Library, Wake Forest University
         details: |
-         In this role, I lead and manage diverse projects in digital classroom publications and Open Educational Resources (OER) on a small team dedicated to campus-wide engagement with digital scholarship and digital humanities. 
+         As a key member of a specialized team, I spearhead initiatives in digital classroom publications and Open Educational Resources (OER), driving campus-wide digital scholarship and digital humanities engagement.
         responsibilities: |
-          **Key responsibilities include:**
-          - Collaborate with faculty to develop and implement digital publishing and OER projects in their classes, emphasizing accessibility, copyright, and privacy concerns.
-          - Write and manage project charters and other documentation to ensure timely project execution, clarify stakeholder roles and expectations, and align services with project goals, timelines, and stakeholder capacity.
-          - Build wireframes, prototypes, and templates for projects requiring custom site development. Work with developers to create custom integrations where necessary. 
-          - Facilitate workshops, write documentation, and respond to help tickets for a range of tools, including PubPub, WordPress, Pressbooks, TimelineJS, Zotero, Airtable, and Hypothesis
-          - Support the research and teaching needs of students and faculty in assigned academic departments through conducting library instruction sessions, writing job aids and research guides, offering one-on-one consultations, and responding to research support tickets.
-          - Serve on numerous campus and library committees, including the university's Committee on Information Technology and the library's UX Committee.
+          **Core Responsibilities:**
+          - **Digital Project Collaboration:** Partner with faculty to implement digital publishing and OER in classes, prioritizing accessibility, copyright, and privacy.
+          - **Project Management:** Draft and oversee project charters and documentation, aligning goals, timelines, and stakeholder capacity for efficient project completion.
+          - **Technical Development:** Design wireframes, prototypes, and custom site templates; collaborate with developers for bespoke integrations.
+          - **User Support:** Provide comprehensive tool support for tools like PubPub, WordPress, and Hypothesis through documentation, helpdesk responses, and training workshops.
+          - **Academic Partnership:** Address research and teaching needs in designated departments through library instruction sessions, research support guides, one-on-one consultations, and ticketed support.
+          - **Committee Participation:** Actively contribute to IT governance and infrastructure on campus through participation in numerous committees, including the university's Committee on Information Technology and the library's UX Committee.
         accomplishments: |
           **Accomplishments**
-          - Played a central role in aligning and coordinating the university's emergency remote and fully-online teaching efforts during the first year of the COVID-19 pandemic, including creating and managing a Slack workspace for relevant support teams and co-developing and co-facilitating a peer-to-peer faculty learning community that drew engagement from more than 90% of faculty.
-          - Successfully coordinated the university's pilot, integration, and rollout of Hypothesis annotation software; through my sustained outreach and training, consistently more than 30% of WFU students engage with Hypothesis in their classes at some point each semester. 
+          - **COVID-19 Response Leadership:** Instrumental in coordinating the university's remote teaching response during COVID-19, including managing a Slack workspace for key stakeholders and co-facilitating a faculty learning community that saw 90% faculty engagement.
+          - **Hypothesis Software Integration:** Led the integration and adoption of Hypothesis annotation software, achieving over 30% student engagement each semester through dedicated outreach and training. 
 
       - role: eLearning Librarian
         time: 2012 - 2019
         company: Z. Smith Reynolds Library, Wake Forest University
         details: |
-          As eLearning Librarian, I specialized in designing and developing online courses and learning objects to support the library's information literacy goals. I also led the library's ZSRx initiative, creating a series of open online courses that saw engagement from more than 5000 parents, alumni, and members of the public. 
+          As eLearning Librarian, I played a pivotal role in enhancing the university's online and blended learning experiences.
         responsibilities: |
-          **Key responsibilities included:**
-          - Developing and teaching credit-bearing courses focused on academic research and critical information literacy, and consulting with faculty colleagues on the development of their own online courses.
-          - Creating tutorials, interactives, documentation, and other learning objects to support library instruction
-          - Leading campus support for Zotero reference management software, including teaching workshops, responding to help tickets, maintaining a comprehensive [Zotero help guide](http://guides.zsr.wfu.edu/zotero) and keeping faculty informed of updates, new features, and upcoming training opportunities.
+          **Core Responsibilities:**
+          - **Online Course Development:** Collaborated with faculty and staff to design and support blended and fully online courses.
+          - **Instructional Roles:** Taught fully-online sections of “LIB100: Academic Research & Information Issues” and integrated open pedagogical practices, including student-directed projects and ungrading.
+          - **Resource Development:** Created and managed online learning objects to support library instruction.
+          - **Information Literacy:** Delivered both in-person and online information literacy and library research instruction sessions across a wide variety of courses.
+          - **Zotero Support:** Expanded the library's Zotero support, creating [comprehensive documentation,](http://guides.zsr.wfu.edu/zotero) conducting communication and outreach, and facilitating faculty and student workshops.
+          - **Department Liaison:** Managed budgets and served as the liaison for counseling and education departments, ensuring diverse and up-to-date collections.
+          - **Strategic Planning:** Was actively involved in the University's Vision 2020 strategic planning initiatives and the library's interim 3-year strategic plan.
         accomplishments: |
           **Accomplishments**
-          - With the State Library of North Carolina, led the planning, instructional design, content development, and facilitation of [RootsMOOC](https://canvas.instructure.com/courses/951533), an LSTA grant-funded massive open online course on genealogy research; RootsMOOC enrolled more than 4000 individuals in the spring of 2015. 
-          - 
+          - **Education Library Revamp:** Spearheaded the the complete overhaul of the Education Department's Curriculum Resources Center, enhancing collection diversity and organization.
+          - **Zotero Leadership:** Led the university's transition away from EndNote to Zotero; met with faculty and administrators to advocate for the free and open source tool.
+          - **MOOC Development** Created and facilitated ["RootsMOOC,"](https://canvas.instructure.com/courses/951533) a genealogy and family history research course that enrolled 4000+ individuals, and "ZSRx: The Cure for the Common Web," a web literacy course with 700+ participants.
 
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+#certifications:
+     # title: Certifications
+     # list:
+       # - name: CV Builder
+         # start: 2020
+         # end: 2021
+         # organization: Microsoft
+         # credentialid: 111-222
+         # credentialurl: www.google.com
+         # credentialname: Google
+         # details: |
+           # Details about cert. Lorem ipsum dolor sit amet, consectetur
+           
+           #Second paragraph. Sed eleifend enim ante, vitae efficitur purus
+        # # - name: Git learning
+        #   # start: 2019
+        #   # end:
+        #   organization: Microsoft
+        #   credentialid: 111-222
+        #   credentialurl: www.github.com
+        #   credentialname: Github
+        #   details: |
+        #     Older certification. Lorem ipsum dolor sit amet, consectetur
+        #     adipiscing elit.
+        #     Nullam eget orci purus. Nullam ultrices neque nibh.
+        #     Aenean fermentum, felis vulputate suscipit accumsan,
+        #     sem enim bibendum augue, sed convallis arcu lacus at dui.
+        #     Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+        #     Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+        #     Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
     title: Projects
