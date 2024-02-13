@@ -14,7 +14,6 @@ sidebar:
 
     # Sidebar links
     email: kdenlinger@duck.com
-    phone: 513.255.2309
     timezone: America/Eastern United States
     citizenship:
     #website: kyledenlinger.com #do not add http://
@@ -44,7 +43,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Dynamic librarian and technologist with extensive experience in digital project management, customer support, and collaborative initiatives in academic settings. Proficient in supporting a wide range of digital tools and platforms, adept at fostering engaging digital learning environments and enhancing user experiences.
+      Dynamic librarian and technologist with extensive experience in digital project management, training and customer success, and collaborative initiatives in academic settings. Proficient in supporting a wide range of digital tools and platforms, adept at fostering engaging digital learning environments and enhancing user experiences.
 education:
     title: Education
     info:
@@ -73,13 +72,14 @@ experiences:
           - **Digital Project Collaboration:** Partner with faculty to implement digital publishing and OER in classes, prioritizing accessibility, copyright, and privacy.
           - **Project Management:** Draft and oversee project charters and documentation, aligning goals, timelines, and stakeholder capacity for efficient project completion.
           - **Technical Development:** Design wireframes, prototypes, and custom site templates; collaborate with developers for bespoke integrations.
-          - **User Support:** Provide comprehensive tool support for tools like PubPub, WordPress, and Hypothesis through documentation, helpdesk responses, and training workshops.
+          - **User Support:** Provide comprehensive support for tools like PubPub, WordPress, Zotero, and Hypothesis through documentation, helpdesk tickets, consultations, and workshops. Communicate directly with developers regarding questions, feature requests, and bug reports.
           - **Academic Partnership:** Address research and teaching needs in designated departments through library instruction sessions, research support guides, one-on-one consultations, and ticketed support.
-          - **Committee Participation:** Actively contribute to IT governance and infrastructure on campus through participation in numerous committees, including the university's Committee on Information Technology and the library's UX Committee.
+          - **Committee Participation:** Actively contribute to IT governance and infrastructure committees, including the university's Committee on Information Technology and the library's UX Committee.
         accomplishments: |
           **Accomplishments**
           - **COVID-19 Response Leadership:** Instrumental in coordinating the university's remote teaching response during COVID-19, including managing a Slack workspace for key stakeholders and co-facilitating a faculty learning community that saw 90% faculty engagement.
-          - **Hypothesis Software Integration:** Led the integration and adoption of Hypothesis annotation software, achieving over 30% student engagement each semester through dedicated outreach and training. 
+          - **Hypothesis Software Integration:** Led the [pilot and adoption of Hypothesis](https://web.hypothes.is/event/lm001/) annotation software, achieving over 30% student engagement each semester through dedicated outreach and faculty training. 
+          - **Canvas Integrations:** Led efforts to integrate library services into the university's Canvas LMS instance, including the library's LibGuides and course reserves systems.
 
       - role: eLearning Librarian
         time: 2012 - 2019
