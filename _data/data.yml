@@ -140,7 +140,7 @@ projects:
     assignments:
       - title: Domestic Knowledge
         link: "https://domesticknowledge.pubpub.org/"
-        tagline: "A student-produced respository of recipes transcribed from 17th & 18th Century manuscript recipe books, built on PubPub with custom integrations. Collaborative effort between WFU professor of history, Knowledge Futures Community Services, and the library. NEH-funded."
+        tagline: "A student-produced repository of recipes transcribed from 17th & 18th Century manuscript recipe books, built on PubPub with custom integrations. Collaborative effort between WFU professor of history, Knowledge Futures Community Services, and the library. NEH-funded."
 
       - title: Gender & Sexuality in World History
         link: "https://genderhistory.pubpub.org/"
@@ -148,7 +148,7 @@ projects:
 
       - title: The Performance of Roman Comedy
         link: "https://romancomedy.pubpub.org/"
-        tagline: "Documenting the curriculum and events of an NEH-funded institute for classics instructors in higher education. Participants used PubPub to create and share curriuclum resources"
+        tagline: "Documenting the curriculum and events of an NEH-funded institute for classics instructors in higher education. Participants used PubPub to create and share curriuculum resources"
 
 publications:
     title: Selected Publications
